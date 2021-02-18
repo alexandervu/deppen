@@ -1,0 +1,24 @@
+{
+  "name": "deppen",
+  "version": "1.0.0",
+  "description": "supper deppen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandervu/deppen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandervu/deppen/issues"
+  },
+  "homepage": "https://github.com/alexandervu/deppen#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
